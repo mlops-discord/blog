@@ -1,0 +1,18 @@
+{
+  "intro": "Hi",
+  "image": {
+    "src": "../../images/waving-hand.png",
+    "alt": "Waving Hand Emoji"
+  },
+  "title": "Welcome to the",
+  "subtitle": {
+    "prefix": "",
+    "highlight": "MLProd Learning",
+    "suffix": " Community!"
+  },
+  "description": "Join us if you want to learn too!",
+  "socialProfiles": {
+    "from": ["Github", "Mail"],
+    "showIcons": true
+  }
+}
