@@ -7,6 +7,6 @@ We are a community of learners who came together to explore the world of MLOps. 
 
 For community activities, we gather every now and then to discuss ML, design systems, and have fun. We have lots planned and in the pipeline, our events have so far been:
 
-System Design Jam Session
-AMA
-Chess tournament with a Grand Master
+- System Design Jam Session
+- AMA
+- Chess tournament with a Grand Master
