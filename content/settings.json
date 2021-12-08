@@ -18,12 +18,13 @@
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
-        { "label": "Blog", "url": "/blog" }
+        { "label": "Blog", "url": "/blog" },
+        { "label": "Github", "url": "https://github.com/mlops-discord"}
       ],
       "ctaButton": {
         "openNewTab": true,
-        "label": "GitHub",
-        "url": "https://github.com/mlops-discord"
+        "label": "Discord",
+        "url": "https://discord.gg/WM4b7Q7nzp"
       },
       "footer": [
       ]
