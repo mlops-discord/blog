@@ -19,8 +19,8 @@ export default function IndexPage() {
       <Seo title="MLOps" />
       <Page useSplashScreenAnimation>
         <HeroSection sectionId="hero" />
-        <ArticlesSection sectionId="articles" heading="Latest Articles" sources={['Blog']} />
         <AboutSection sectionId="about" heading="About Our Community" />
+        <ArticlesSection sectionId="articles" heading="Latest Articles" sources={['Blog']} />
         {/* <InterestsSection sectionId="details" heading="Details" /> */}
         {/* <ProjectsSection sectionId="features" heading="Built-in Features" /> */}
         {/* <ContactSection sectionId="github" heading="Issues?" /> */}
