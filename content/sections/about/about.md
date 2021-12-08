@@ -9,4 +9,4 @@ For community activities, we gather every now and then to discuss ML, design sys
 
 - System Design Jam Session
 - AMA
-- Chess tournament with a Grand Master
+- Discussions about what is happening in the ML production world
