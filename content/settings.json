@@ -2,10 +2,10 @@
   "siteMetadata": {
     "language": "en",
     "siteUrl": "https://mlops-discord.github.io",
-    "title": "Gatsby Starter for Portfolio Minimal",
+    "title": "MLOps Learning",
     "titleTemplate": "%s · Portfolio Minimal",
     "description": "",
-    "author": "Learn MLProd Community",
+    "author": "MLOps Learning",
     "avatar": "../content/images/gatsby.png",
     "bio": "",
     "social": {
@@ -14,7 +14,7 @@
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Learn MLProd" },
+    "logo": { "text": "MLOps Learning" },
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
