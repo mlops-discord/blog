@@ -12,7 +12,7 @@
   },
   "description": "Join us on Discord if you want to learn too!",
   "socialProfiles": {
-    "from": ["Github", "Mail"],
+    "from": ["Github"],
     "showIcons": true
   }
 }
