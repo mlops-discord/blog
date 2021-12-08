@@ -1,7 +1,7 @@
 {
   "name": "learn-mlops-site",
   "version": "1.0.0",
-  "description": "A place to share community content and updates",
+  "description": "A community for learning the best MLOps practices",
   "scripts": {
     "clean": "gatsby clean",
     "develop": "gatsby develop",
