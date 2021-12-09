@@ -14,6 +14,7 @@
   },
   "dependencies": {
     "gatsby": "^4.0.2",
+    "gatsby-plugin-google-gtag": "^4.3.0",
     "gatsby-theme-portfolio-minimal": "latest",
     "gh-pages": "^3.2.3",
     "react": "^17.0.2",
