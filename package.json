@@ -1,6 +1,6 @@
 {
   "name": "learn-mlops-site",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A community for learning the best MLOps practices",
   "scripts": {
     "clean": "gatsby clean",
@@ -13,8 +13,8 @@
     "node": ">=16.0.0"
   },
   "dependencies": {
-    "gatsby": "^4.0.2",
-    "gatsby-plugin-google-gtag": "^4.3.0",
+    "gatsby": "^4.7.1",
+    "gatsby-plugin-google-gtag": "^4.7.0",
     "gatsby-theme-portfolio-minimal": "latest",
     "gh-pages": "^3.2.3",
     "react": "^17.0.2",
