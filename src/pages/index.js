@@ -10,7 +10,8 @@ import {
   Seo,
 } from "gatsby-theme-portfolio-minimal";
 import {
-  Header
+  Header,
+  Events
 } from "../components";
 
 export default function IndexPage() {
@@ -21,6 +22,7 @@ export default function IndexPage() {
         <HeroSection sectionId="hero" />
         <AboutSection sectionId="about" heading="About Our Community" />
         <ArticlesSection sectionId="articles" heading="Latest Articles" sources={['Blog']} />
+        <Events />
         {/* <InterestsSection sectionId="details" heading="Details" /> */}
         {/* <ProjectsSection sectionId="features" heading="Built-in Features" /> */}
         {/* <ContactSection sectionId="github" heading="Issues?" /> */}
